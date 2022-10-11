@@ -1,0 +1,23 @@
+{
+  "name": "webdev-nodets-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawodyaishan/WebDev-NodeTs-Lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawodyaishan/WebDev-NodeTs-Lambda/issues"
+  },
+  "homepage": "https://github.com/nawodyaishan/WebDev-NodeTs-Lambda#readme",
+  "dependencies": {
+    "serverless": "^3.22.0",
+    "typescript": "^4.8.4"
+  }
+}
