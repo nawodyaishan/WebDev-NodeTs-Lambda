@@ -8,5 +8,7 @@ functions:
   helloWorldFunction:
     handler:  index.handler
     name: hello-world-typescript
+    events:
+      - http: GET hello
 
 
